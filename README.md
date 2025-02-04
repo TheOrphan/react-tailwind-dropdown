@@ -2,18 +2,18 @@
 
 ## Quick Links
 
-- 📚 Documentation & Demo: [Storybook](https://theorphan.github.io/react-tailwind-dropdown)
-- 💻 Repository: [GitHub](https://github.com/TheOrphan/react-tailwind-dropdown)
-- 🚀 NPM Package: [npm](https://www.npmjs.com/package/react-tailwind-dropdown)
+- 📚 Documentation & Demo: [Storybook](https://theorphan.github.io/react-dropdown-tailwind)
+- 💻 Repository: [GitHub](https://github.com/TheOrphan/react-dropdown-tailwind)
+- 🚀 NPM Package: [npm](https://www.npmjs.com/package/react-dropdown-tailwind)
 
 A highly customizable React dropdown component built with Tailwind CSS. Features include single/multiple selection, search functionality, portal rendering, and custom styling options.
 
 ## Installation
 
 ```bash
-npm install react-tailwind-dropdown
+npm install react-dropdown-tailwind
 # or
-yarn add react-tailwind-dropdown
+yarn add react-dropdown-tailwind
 ```
 
 Make sure you have the peer dependencies installed:
@@ -25,7 +25,7 @@ Make sure you have the peer dependencies installed:
 ## Usage
 
 ```jsx
-import Dropdown from "react-tailwind-dropdown";
+import Dropdown from "react-dropdown-tailwind";
 
 const options = [
   { value: "1", label: "Option 1" },
