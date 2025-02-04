@@ -2,7 +2,7 @@
 
 ## Quick Links
 
-- 📚 Documentation & Demo: [Storybook](https://theorphan.github.io/react-dropdown-tailwind)
+- 📚 Documentation & Demo: [Storybook](https://theorphan.github.io/react-tailwind-dropdown/)
 - 💻 Repository: [GitHub](https://github.com/TheOrphan/react-dropdown-tailwind)
 - 🚀 NPM Package: [npm](https://www.npmjs.com/package/react-dropdown-tailwind)
 
