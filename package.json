@@ -1,0 +1,63 @@
+{
+  "name": "react-tailwind-dropdown",
+  "version": "1.0.0",
+  "description": "A highly customizable React dropdown component with Tailwind CSS",
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "rollup -c",
+    "storybook": "storybook dev -p 6006",
+    "build-storybook": "storybook build",
+    "prepare": "npm run build",
+    "predeploy": "npm run build-storybook",
+    "deploy": "gh-pages -d storybook-static"
+  },
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "tailwindcss": "^3.0.0"
+  },
+  "dependencies": {
+    "lucide-react": "^0.263.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.22.0",
+    "@babel/preset-env": "^7.22.0",
+    "@babel/preset-react": "^7.26.3",
+    "@rollup/plugin-babel": "^6.0.0",
+    "@rollup/plugin-commonjs": "^25.0.0",
+    "@rollup/plugin-node-resolve": "^15.0.0",
+    "@storybook/addon-essentials": "^7.0.0",
+    "@storybook/addon-interactions": "^7.0.0",
+    "@storybook/addon-links": "^7.0.0",
+    "@storybook/blocks": "^7.0.0",
+    "@storybook/react": "^7.0.0",
+    "@storybook/react-webpack5": "^7.0.0",
+    "@storybook/testing-library": "^0.2.0",
+    "autoprefixer": "^10.4.14",
+    "gh-pages": "^6.3.0",
+    "postcss": "^8.4.24",
+    "rollup": "^3.25.0",
+    "rollup-plugin-peer-deps-external": "^2.2.4",
+    "rollup-plugin-postcss": "^4.0.2",
+    "storybook": "^7.0.0",
+    "tailwindcss": "^3.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheOrphan/react-tailwind-dropdown"
+  },
+  "keywords": [
+    "react",
+    "dropdown",
+    "select",
+    "tailwindcss",
+    "component"
+  ],
+  "author": "Joko Santoso <hello.jokosantoso@gmail.com>",
+  "license": "MIT"
+}
