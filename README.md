@@ -3,7 +3,7 @@
 ## Quick Links
 
 - 📚 Documentation & Demo: [Storybook](https://theorphan.github.io/react-tailwind-dropdown/)
-- 💻 Repository: [GitHub](https://github.com/TheOrphan/react-dropdown-tailwind)
+- 💻 Repository: [GitHub](https://github.com/TheOrphan/react-tailwind-dropdown)
 - 🚀 NPM Package: [npm](https://www.npmjs.com/package/react-dropdown-tailwind)
 
 A highly customizable React dropdown component built with Tailwind CSS. Features include single/multiple selection, search functionality, portal rendering, and custom styling options.
