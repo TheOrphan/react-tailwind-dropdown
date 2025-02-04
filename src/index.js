@@ -1,1 +1,3 @@
-export { default as Dropdown } from "./components/Dropdown/index.jsx";
+import "./styles/tailwind.css";
+
+export { default as Dropdown } from "./components/Dropdown.jsx";

@@ -1,4 +1,4 @@
-import Dropdown from ".";
+import Dropdown from "./Dropdown";
 
 const meta = {
   title: "Components/Dropdown",

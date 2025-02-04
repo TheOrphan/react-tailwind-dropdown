@@ -1,0 +1,44 @@
+belajar-2/dropdown-test/
+├── .babelrc
+├── .gitignore
+├── package-lock.json
+├── package.json
+├── postcss.config.js
+├── README.md
+├── rollup.config.js
+├── tailwind.config.js
+├── public/
+│   ├── favicon.ico
+│   ├── index.html
+│   ├── logo192.png
+│   ├── logo512.png
+│   ├── manifest.json
+│   └── robots.txt
+├── src/
+│   ├── index.js
+│   ├── components/
+│   │   ├── Dropdown.stories.jsx
+│   │   └── Dropdown/
+│   │       └── Dropdown.jsx
+│   ├── stories/
+│   │   ├── Configure.mdx
+│   │   └── assets/
+│   │       ├── accessibility.png
+│   │       ├── accessibility.svg
+│   │       ├── addon-library.png
+│   │       ├── assets.png
+│   │       ├── avif-test-image.avif
+│   │       ├── context.png
+│   │       ├── discord.svg
+│   │       ├── docs.png
+│   │       ├── figma-plugin.png
+│   │       ├── github.svg
+│   │       ├── share.png
+│   │       ├── styling.png
+│   │       ├── testing.png
+│   │       ├── theming.png
+│   │       └── tutorials.svg
+│   └── styles/
+│       └── tailwind.css
+└── storybook-static/
+    ├── (various generated files)

@@ -1,7 +1,7 @@
 import { createPortal } from "react-dom";
 import { useState, useRef, useEffect } from "react";
 import { Search, X } from "lucide-react";
-import "../../styles/tailwind.css";
+import "../styles/tailwind.css";
 
 const Dropdown = ({
   options = [],
